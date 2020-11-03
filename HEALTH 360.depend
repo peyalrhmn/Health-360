@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566490868 source:c:\users\asus\desktop\health 360\main.c
+	<stdio.h>
+	<stdlib.h>
+

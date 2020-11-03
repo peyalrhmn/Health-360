@@ -1,0 +1,10 @@
+Name: Pial
+
+Age: 20
+
+Weight: 52.000000
+
+Medicines: ACE
+
+Tests: CBC
+
